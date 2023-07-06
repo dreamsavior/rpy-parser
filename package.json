@@ -1,0 +1,16 @@
+{
+  "name": "rpy-parser",
+  "version": "1.0.0",
+  "description": "Parser for renpy's rpy file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "renpy",
+    "rpy",
+    "parser"
+  ],
+  "author": "Dreamsavior",
+  "license": "ISC"
+}
